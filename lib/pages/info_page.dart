@@ -9,7 +9,7 @@ class InfoPage extends StatelessWidget {
     'assets/c2.jpg',
     'assets/c3.jpg',
   ];
-
+// list of required text
   var bottomtext = [
     'Culture',
     'Comunity ',
