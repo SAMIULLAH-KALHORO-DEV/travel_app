@@ -15,7 +15,7 @@ class InfoPage extends StatelessWidget {
     'Comunity ',
     'Architecture',
   ];
-
+// list of likes 
   var likes = [
     '734',
     '832',
